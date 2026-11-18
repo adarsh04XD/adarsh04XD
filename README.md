@@ -1,14 +1,14 @@
- <div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:3B0764,100:00D4FF&height=220&section=header&text=ADARSH%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=PLAYER%20%7C%20DEVELOPER%20%7C%20CREATOR&descSize=17&descAlignY=58&animation=fadeIn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:3B0764,100:00D4FF&height=220&section=header&text=ADARSH%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=PLAYER%20%7C%20DEVELOPER%20%7C%20CREATOR&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;Frontend+Developer+%F0%9F%92%BB;Gaming+%26+Technology+Enthusiast+%F0%9F%8E%AE;Content+Creator+%F0%9F%8E%A5;Building+Ideas+Into+Reality+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe;Frontend+Developer;Gaming+%26+Technology+Enthusiast;Content+Creator;Building+Ideas+Into+Reality" alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=adarsh04XD&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS)](https://github.com/adarsh04XD)
-[![Followers](https://img.shields.io/github/followers/adarsh04XD?style=for-the-badge&color=00D4FF&label=FOLLOWERS)](https://github.com/adarsh04XD?tab=followers)
-[![Stars](https://img.shields.io/github/stars/adarsh04XD?style=for-the-badge&color=FFD700&label=TOTAL+STARS)](https://github.com/adarsh04XD?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=adarsh04XD&style=for-the-badge&color=7B2FFF)](https://github.com/adarsh04XD)
+[![Followers](https://img.shields.io/github/followers/adarsh04XD?style=for-the-badge&color=00D4FF)](https://github.com/adarsh04XD?tab=followers)
+[![Stars](https://img.shields.io/github/stars/adarsh04XD?style=for-the-badge&color=FFD700)](https://github.com/adarsh04XD?tab=repositories)
 
 </div>
 
@@ -30,10 +30,11 @@ INTERESTS:
 STATUS: Always Learning ⚡
 ```
 
-- 🔭 Working on [Info Technology Solution](https://github.com/adarsh04XD/its)
-- 🌱 Exploring frontend development and content creation.
+- 🔭 Currently working on [Info Technology Solution](https://github.com/adarsh04XD/its)
+- 🌱 Exploring Frontend Development & Content Creation.
 - 🎮 Gaming enthusiast and YouTube creator.
-- 💬 Ask me about frontend development and technology.
+- 💻 Interested in building creative digital projects.
+- 💬 Ask me about Frontend Development and Technology.
 - 📫 Email: [adarshkumarsoniff@gmail.com](mailto:adarshkumarsoniff@gmail.com)
 
 ---
@@ -43,8 +44,11 @@ STATUS: Always Learning ⚡
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-0B0B15?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/battlefox_04)
-[![YouTube](https://img.shields.io/badge/YOUTUBE-0B0B15?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCgsrcwqhma3403ddrejluma)
+
+[![YouTube](https://img.shields.io/badge/YOUTUBE-0B0B15?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/ucgsrcwqhma3403ddrejluma)
+
 [![Discord](https://img.shields.io/badge/DISCORD-0B0B15?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/XExQtv2Q9f)
+
 [![GitHub](https://img.shields.io/badge/GITHUB-0B0B15?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/adarsh04XD)
 
 </div>
@@ -55,24 +59,14 @@ STATUS: Always Learning ⚡
 
 <div align="center">
 
-### FRONTEND
+### FRONTEND DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="Frontend Technologies" />
 
 ### BACKEND & DATABASE
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,mysql,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,mysql,mongodb,firebase&theme=dark" alt="Backend Technologies" />
 
 ### TOOLS & ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,figma,vscode,aws&theme=dark" />
-
-</div>
-
----
-
-## 📊 PLAYER STATISTICS — GITHUB
-
-<div align="center">
-
-<img width="49%" src="https://github
+<img src
